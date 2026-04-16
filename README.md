@@ -114,13 +114,13 @@ This installs the guidelines as a Claude Code plugin, making the skill available
 
 New project:
 ```bash
-curl -o CLAUDE.md https://raw.githubusercontent.com/forrestchang/andrej-karpathy-skills/main/CLAUDE.md
+curl -o AGENTS.md https://raw.githubusercontent.com/rainstormstudio/andrej-karpathy-skills/main/AGENTS.md
 ```
 
 Existing project (append):
 ```bash
-echo "" >> CLAUDE.md
-curl https://raw.githubusercontent.com/forrestchang/andrej-karpathy-skills/main/CLAUDE.md >> CLAUDE.md
+echo "" >> AGENTS.md
+curl https://raw.githubusercontent.com/rainstormstudio/andrej-karpathy-skills/main/AGENTS.md >> AGENTS.md
 ```
 
 ## Key Insight
